@@ -2,10 +2,10 @@ package com.example.sneakersshop
 
 class Validator {
     fun isValidEmail(email: String): Boolean {
-        return false
+        return android.util.Patterns.EMAIL_ADDRESS.matcher(email).matches()
     }
 
     fun isValidPassword(password: String): Boolean {
-        return false
+        return password.length >= 8
     }
 }
