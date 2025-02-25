@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SneakersShop</string>
+    <string name="login_main_text1">Привет!</string>
+    <string name="login_minor_text1">Заполните Свои Данные Или Продолжите Через Социальные Медиа</string>
+</resources>
