@@ -1,5 +1,11 @@
 <resources>
     <string name="app_name">SneakersShop</string>
     <string name="login_main_text1">Привет!</string>
+    <string name="abob"></string>
     <string name="login_minor_text1">Заполните Свои Данные Или Продолжите Через Социальные Медиа</string>
+    <string name="onboard_text">ДОБРО ПОЖАЛОВАТЬ</string>
+    <string name="onboard_main_text1">Начнём путешествие</string>
+    <string name="onboard_main_text2">У Вас Есть Сила, Чтобы</string>
+    <string name="onboard_minor_text1">Умная, великолепная и модная коллекция Изучите сейчас</string>
+    <string name="onboard_minor_text2">В вашей комнате много красивых и привлекательных растений</string>
 </resources>
